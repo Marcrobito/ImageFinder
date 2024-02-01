@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageFinder</string>
+    <string name="enter_search_criteria">Enter search criteria</string>
+    <string name="enter_key_words_to_search_images">Enter key words to search images</string>
+</resources>
